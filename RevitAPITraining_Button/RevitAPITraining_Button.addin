@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Command">
+		<Assembly>"C:\Doc\RevitApi\RevitAPITraining_Button.dll"</Assembly>
+		<AddInId>77BD65FE-0F2C-4C74-B69B-110133427F9D</AddInId>
+		<FullClassName>RevitAPITraining_Button.Main</FullClassName>
+		<VendorId>bdvbuild</VendorId>
+		<Text>5.1 Создание кнопки</Text>
+	</AddIn>
+</RevitAddIns>
